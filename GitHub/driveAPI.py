@@ -8,7 +8,7 @@ SCOPES = ["https://www.googleapis.com/auth/drive"]
 
 service = Create_Service(CLIENT_SECRET_FILE, API_NAME, API_VERSION, SCOPES)
 
-folder_id = "14m03TpGtFGkc28ElxeAKGIqTbzDFDd_3"
+folder_id = "####"
 file_names = ["issues.xlsx"]
 mime_types = ["application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"]
 
